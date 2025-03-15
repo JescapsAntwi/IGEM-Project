@@ -1,8 +1,8 @@
 ## Project info
 
-## How can I edit this code?
+## How to edit this code?
 
-There are several ways of editing your application.
+There are several ways of editing this project.
 
 **Use your preferred IDE**
 
